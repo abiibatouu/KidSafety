@@ -87,6 +87,15 @@ Seules des **captures d’écran, extraits** ou **vidéos de démonstration** so
 
 
 ---
+---
+
+## 🖥 Présentation de soutenance
+
+🎓 Ce diaporama a été présenté lors de ma soutenance de projet de fin d'études à l'Université Sidi Mohamed Ben Abdellah (Fès) en 2024.
+
+📊 [Voir la présentation Canva](https://www.canva.com/design/DAGGB6xmZws/x1sjdmZPm0v7W9HvLr0VTg/view?utm_content=DAGGB6xmZws&utm_campaign=designshare&utm_medium=link&utm_source=edito)
+
+---
 
 
 ## 🖼️ Captures d’écran
