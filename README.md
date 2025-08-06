@@ -83,8 +83,8 @@ Seules des **captures d’écran, extraits** ou **vidéos de démonstration** so
 
 ## 🎥 Démo vidéo
 
-📺 *Ajoute ici un lien vers la vidéo de test si disponible*  
-`Exemple : https://youtu.be/lien-demo-kidsafety`
+📺 https://drive.google.com/file/d/1_nWW0645gAp0Gaa-DFHbOPI_37XwZ24k/view?usp=drivesdk*  
+
 
 ---
 
